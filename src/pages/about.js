@@ -5,7 +5,8 @@ export default () => (
   <>
     <Layout>
       <h1>About Me</h1>
-      <p>This is my personal website</p>
+      <a href="https://github.com/ILLeTiD">Contact me if you want</a>
+      <p>This is my personal website (testing gatsby stuff)</p>
       <Link to="/">&larr; Home</Link>
     </Layout>
   </>
